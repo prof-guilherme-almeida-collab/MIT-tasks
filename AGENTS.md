@@ -9,7 +9,7 @@
   nem gravar nele.** Tudo o que só existia nele foi copiado para o NAS e conferido por SHA-256.
 - Caminho com `RCV_Disk` em material novo é erro; em registro antigo, indica onde o arquivo estava
   na época (o mesmo caminho relativo existe no NAS).
-- Acervos FAF e CZUR/Scan: `~/.local/bin/acervos diagnostico` e o guia
-  `/media/guilherme/NAS_GUILE/Acervos_Integracao/GUIA_AGENTES.md`.
+- Acervos locais — FAF, CZUR/Scan, Projects and articles e Imports: `~/.local/bin/acervos diagnostico`,
+  busca conjunta com `acervos buscar`, e o guia `/media/guilherme/NAS_GUILE/Acervos_Integracao/GUIA_AGENTES.md`.
 - Execução na nuvem não tem acesso a esses discos; dados, bancos e PDFs não entram no Git.
 <!-- DISCOS-LOCAIS:FIM -->
