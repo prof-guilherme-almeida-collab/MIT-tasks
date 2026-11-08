@@ -12,8 +12,8 @@
   `NAS_GUILE/espelho-dados/<máquina>/` e os repositórios (bundles git, status e diffs) para
   `NAS_GUILE/backup/repositorios/<máquina>/`. Originais que só existem no NAS (PDFs dos acervos, vídeos,
   vozes aprovadas) continuam lá: não apagar nada do NAS.
-- **O SanDisk `RCV_Disk` (`/media/guilherme/RCV_Disk`) está corrompido desde 17/10/2026: não ler
-  nem gravar nele.** Caminho com `RCV_Disk` em material novo é erro; em registro antigo, indica onde o
+- **O SanDisk `RCV_Disk` (`/media/guilherme/RCV_Disk`) está corrompido desde 17/10/2026 e descartado: foi
+  substituído pelo NAS (reafirmado em 08/11/2026). Não ler nem gravar nele.** Caminho com `RCV_Disk` em material novo é erro; em registro antigo, indica onde o
   arquivo estava na época (o mesmo caminho relativo existe no NAS).
 - Acervos locais — FAF, CZUR/Scan, Projects and articles e Imports: `~/.local/bin/acervos diagnostico`,
   busca conjunta com `acervos buscar`, e o guia `/media/guilherme/NAS_GUILE/Acervos_Integracao/GUIA_AGENTES.md`.
